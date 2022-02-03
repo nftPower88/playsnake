@@ -9,7 +9,6 @@
 <p align="center">   
   <img alt="Made by aleksanderpalamar" src="https://img.shields.io/badge/made%20by-aleksanderpalamar-%237519C1?style=flat-square" >  
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2ac14ad2-b426-4156-b5cf-df0787d91a7d/deploy-status)](https://app.netlify.com/sites/gracious-leavitt-2f381f/deploys)
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
